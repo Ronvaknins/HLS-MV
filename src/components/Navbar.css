@@ -1,0 +1,16 @@
+.navbar {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  .navbar:hover {
+    opacity: 1;
+  }
+  
