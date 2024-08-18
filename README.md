@@ -1,5 +1,8 @@
 # HLS-MV
-![HLS-MV-logo-trans](https://github.com/user-attachments/assets/5be267d8-b1fe-4179-a3b4-2c550e60f2b3 )
+
+
+<img src="https://github.com/user-attachments/assets/5be267d8-b1fe-4179-a3b4-2c550e60f2b3" width="70%" height="70%">
+
 HTTP Live Streaming MultiViewer
 
 
@@ -8,6 +11,9 @@ HTTP Live Streaming MultiViewer
 HLS-MV is a React application designed for real-time monitoring of multiple HLS video streams in a grid layout. It provides a user-friendly interface for viewing and managing multiple video feeds simultaneously, ideal for surveillance, broadcasting, and live event monitoring.
 
 ## Demo
+<a href="https://drive.google.com/file/d/1UxOOLAxDMw4YDqWw7Un23uPf1L-JIJzF/view"><img src="https://github.com/user-attachments/assets/b0f7a9ab-7dc2-4d07-bdbc-01b866b718a4" width="70%" height="70%"></a>
+
+
 
 ## Install
 ```
