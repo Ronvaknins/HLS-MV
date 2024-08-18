@@ -1,7 +1,7 @@
 import VideoPlayer from './components/VideoPlayer';
 
 import { useState } from 'react';
-import {streams as initialStreams} from './configNews'
+import {streams as initialStreams} from './src/configNews.js'
 import Navbar from './components/Navbar';
 import SettingsModal from './components/SettingsModal';
 console.log(window.screen.width);
