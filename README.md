@@ -79,7 +79,7 @@ import {streams as initialStreams} from './configNews'
 - [ ]  adding routes to config files via url
 - [ ]  adding support for flexable rescale for each video input
 - [ ]  creating a menu item componenets
-- [ ]  saving last config in the local storage
+- [ ]  saving last config to the local storage
 
 
 ## Authors
