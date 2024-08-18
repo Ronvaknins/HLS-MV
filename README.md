@@ -26,9 +26,9 @@ npm run build
 ```
 npm run start
 ```
-### Run LAN exposed
-
-Change to your LAN ip address in package.json line 8
+### Run with LAN exposed
+to expose the server to the lan (ability to watch it in other computer in the lan or for example smart TV)
+Edit your LAN ip address in [package.json line 8](https://github.com/Ronvaknins/HLS-MV/blob/main/package.json#L8) line 8
 ```
 8    "start-lan": "vite --host {YOUR_LAN_IP}",
 ```
