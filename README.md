@@ -76,3 +76,5 @@ import {streams as initialStreams} from './configNews'
 - [Google's Audiowide Font](https://fonts.googleapis.com/css?family=Audiowide)
 - [Google icons](https://fonts.google.com/icons)
 - [Button-17](https://getcssscan.com/css-buttons-examples)
+- [Vite](https://vitejs.dev/)
+- [React](https://react.dev/)
