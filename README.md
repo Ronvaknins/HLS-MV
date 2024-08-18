@@ -9,6 +9,14 @@ HLS-MV is a React application designed for real-time monitoring of multiple HLS 
 
 ## Demo
 
+## Install
+```
+cd HLS-MV
+```
+install vite:
+```
+npm install vite@latest
+```
 ## Build
 ```
 npm run build
