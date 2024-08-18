@@ -92,3 +92,4 @@ import {streams as initialStreams} from './configNews'
 - [Button-17](https://getcssscan.com/css-buttons-examples)
 - [Vite](https://vitejs.dev/)
 - [React](https://react.dev/)
+- [Apple HLS](https://developer.apple.com/streaming/)
