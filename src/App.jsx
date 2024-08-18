@@ -33,16 +33,7 @@ function App(){
     const handleSave = (newStreams) => {
       setStreams(newStreams);
     };
-  // const columns = Math.round(Math.sqrt(streams.length));
-  
-  // const gridStyle = {
-  //   display: 'grid',
-  //   gridTemplateColumns: `repeat(${columns}, minmax(480px, 1fr))`,
-  //   gap: '10px', // Optional, for spacing between grid items
-  //   // border: '2px solid white', // Add border around the grid container
-  //   // padding: '10px',
-  // };
-  // style={{ position: 'relative', paddingBottom: '58%', height: 0 }}
+
 
   document.addEventListener('keydown', function(event) {
     if (event.key === 'f' || event.key === 'F') {
