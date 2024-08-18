@@ -1,7 +1,7 @@
 # HLS-MV
 
 
-<img src="https://github.com/user-attachments/assets/5be267d8-b1fe-4179-a3b4-2c550e60f2b3" width="70%" height="70%">
+<img src="https://github.com/user-attachments/assets/5be267d8-b1fe-4179-a3b4-2c550e60f2b3" width="80%" height="80%">
 
 HTTP Live Streaming MultiViewer
 
